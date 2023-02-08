@@ -1,0 +1,5 @@
+class Gmail{
+int setpwd=50;
+
+
+}
